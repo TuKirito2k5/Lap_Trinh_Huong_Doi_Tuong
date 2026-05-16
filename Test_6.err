@@ -1,0 +1,6 @@
+*** Error 18 "Test_6.c" Line 1(9,18): File can not be opened
+    Not in local "D:\Lap Trinh Huong Doi Tuong\stdio.h"
+*** Error 18 "Test_6.c" Line 2(10,21): File can not be opened
+    Not in local "D:\Lap Trinh Huong Doi Tuong\string.h"
+*** Error 128 "Test_6.c" Line 4(1,12): A #DEVICE required before this line
+      3 Errors,  0 Warnings.
